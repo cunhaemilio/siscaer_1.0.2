@@ -7,3 +7,4 @@ chrome: BROWSER=chrome
 firefox: BROWSER=firefox
 chrome_headless: BROWSER=chrome_headless
 phantomjs: BROWSER=phantomjs
+
